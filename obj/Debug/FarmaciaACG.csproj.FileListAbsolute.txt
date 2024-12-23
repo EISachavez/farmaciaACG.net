@@ -1,0 +1,11 @@
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\bin\Debug\FarmaciaACG.exe.config
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\bin\Debug\FarmaciaACG.exe
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\bin\Debug\FarmaciaACG.pdb
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\obj\Debug\FarmaciaACG.csproj.AssemblyReference.cache
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\obj\Debug\FarmaciaACG.Properties.Resources.resources
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\obj\Debug\FarmaciaACG.csproj.GenerateResource.cache
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\obj\Debug\FarmaciaACG.csproj.CoreCompileInputs.cache
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\obj\Debug\FarmaciaACG.exe
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\obj\Debug\FarmaciaACG.pdb
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\obj\Debug\FarmaciaACG.FormFarmaciaACG.resources
+D:\Archivos\Ingenieria de Software\git\FarmaciaNET\FarmaciaACG\obj\Debug\FarmaciaACG.DetallePedido.resources
